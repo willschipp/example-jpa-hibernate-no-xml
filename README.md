@@ -1,0 +1,1 @@
+# Example of Pure Java Hibernate JPA
